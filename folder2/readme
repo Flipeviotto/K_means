@@ -1,0 +1,5 @@
+#Resultados
+Os clusters não são fixos entre uma iteração e outra.
+Devido a geração aleatória dos clusters, os a posição dos centroides pode mudar.
+
+talvez se usar k-means++ pode reduzir essa variabilidade.
